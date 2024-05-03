@@ -1,5 +1,5 @@
 # EquationCalculator
- Application to calculate systems of equations from 1 -> 5 variables
+ Application to calculate systems of equations from 1 -> 4 variables
 # Download Java Development Kit (JDK) lastest version
 https://www.oracle.com/java/technologies/downloads/
 # check JDK
